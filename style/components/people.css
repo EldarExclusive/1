@@ -1,0 +1,53 @@
+.Peo{
+
+    background-image: url(../../images/people.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 640px;
+    width: 100%;
+    background-attachment:fixed ;
+}
+.people{
+    padding:50px 250px ;
+}
+.people>h1{
+    text-align: center;
+    color: #fff;
+    font-size: 58px;
+     /* Сверху | Справа | Снизу | Слева */ 
+    padding-top: 70px;
+    font-weight: 800;
+    font-style: normal;
+    font-family: 'Martel', serif;
+}
+.people>h6{
+    text-align: center;
+    color: #fff;
+    padding: 45px 20px 50px 20px ;
+    font-size: 25px;
+    font-family: 'Courgette';
+}
+.people-timer{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+.timer-item>h1{
+  text-align: center;
+  color: #e9be7d;
+  font-size: 48px;
+  font-weight: 700;
+  font-family: 'Martel', serif;
+}
+.timer-item>p{
+    font-size: 26px;
+    margin-top: 15px;
+    text-align: center;
+    font-family: 'Martel', serif;
+    font-weight: 600;
+}
+.divide{
+    font-size: 33px;
+    margin-top: 20px;
+
+}

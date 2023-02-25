@@ -1,0 +1,29 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Martel:wght@200;300;400;600;700;800;900&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Martel:wght@200;300;400;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('vendor/reset.css ');
+@import url('components/header.css'); 
+@import url('components/home.css');
+@import url('components/ben.css');
+@import url('components/about-me.css');
+@import url(components/choose.css);
+@import url(components/featured.css);
+@import url(components/coach.css);
+@import url(components/pictures.css);
+@import url(components/questions.css);
+@import url(components/people.css);
+@import url(components/Testimonials.css);
+@import url(components/Career.css);
+@import url(components/education.css);
+@import url(components/solution.css);
+@import url(components/Subscribe.css);
+@import url(components/Our.css);
+@import url(components/contact.css);
+@import url(components/footer.css);
+@import url(components/adaptations.css);
+@import url(components/gallery.css);
+@import url(components/modalwin.css);
+
+
+

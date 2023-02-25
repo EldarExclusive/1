@@ -1,0 +1,66 @@
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 85%;
+  margin: 0 auto;
+}
+.life-coach{
+  background-image: url(../../images/1.jpg);
+    
+  /* background-size: cover; */
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: top;
+  padding: 40px 0;
+}
+.logo{
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.life{
+  color: #fff;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.head-all{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin: 20px ;
+}
+
+.menu-step{
+  color: white;
+  font-style: normal;
+  font-size: 16px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-left: 30px;
+}
+.head-social i {
+  color: #e6ba7a;
+  margin-left: 30px;
+
+}
+.head-all a:hover{
+  color:#e6ba7a;
+  transition: .3s;
+}
+.burger-menu{
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  display: none;
+  color: #e6ba7a;
+  font-size: 35px;
+  
+}

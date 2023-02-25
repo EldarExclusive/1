@@ -1,0 +1,53 @@
+.class-pictures{
+      /* Сверху | Справа | Снизу | Слева */ 
+    padding: 70px 15px 70px 15px ;
+    background-color:#0a2647;;
+    margin-top: 20px;
+}
+.img-blue{
+    display: flex;
+    justify-content: space-between;
+
+}
+.pictures1{
+    background-image: url(../../images/picture1.png);
+    width: 160px;
+    height:130px;
+    background-size: cover;
+    background-position: top;
+}
+.pictures2{
+    background-image: url(../../images/picture2.png);
+    width: 160px;
+    height:130px;
+    background-size: cover;
+    background-position: top;
+}
+.pictures3{
+    background-image: url(../../images/picture3.png);
+    width: 160px;
+    height:130px;
+    background-size: cover;
+    background-position: top;
+}
+.pictures4{
+    background-image: url(../../images/picture4.png);
+    width: 160px;
+    height:130px;
+    background-size: cover;
+    background-position: top;
+}
+.pictures5{
+    background-image: url(../../images/picture5.png);
+    width: 160px;
+    height:130px;
+    background-size: cover;
+    background-position: top;
+}
+.pictures6{
+    background-image: url(../../images/picture6.png);
+    width: 160px;
+    height:130px;
+    background-size: cover;
+    background-position: top;
+}

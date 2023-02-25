@@ -1,0 +1,201 @@
+@media(max-width:900px) {
+    .logo {
+        width: 100%;
+    }.life-coach {
+        background-size: cover;
+        background-position:center
+    }
+
+    header {
+        flex-wrap: wrap;
+    }
+
+    .head-all {
+        flex-wrap: wrap;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .head-all a {
+        display: none;
+    }
+
+    .burger-menu {
+        display: inline;
+    }
+
+    .head-social {
+        margin-top: 25px;
+    }
+
+    .home-text>h1 {
+        font-size: 48px;
+    }
+
+    .home-text>p {
+        font-size: 25px;
+    }
+
+    .home-text>a {
+        font-size: 15px;
+    }
+
+    .ben-main {
+        flex-wrap: wrap;
+        width: 100%;
+        margin-top: 50px auto;
+        padding: 10px 0px;
+    }
+
+    .our-item {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .our-inner {
+        margin-top: 50px;
+    }
+
+    .me-padding {
+        flex-wrap: wrap;
+    }
+
+    .left-me {
+        width: 100%;
+    }
+
+    .right-me {
+        width: 100%;
+    }
+
+    .allpac {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .blocs {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .blocs-yellow {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .Featured-padding {
+        flex-wrap: wrap;
+    }
+
+    .right-featured {
+        width: 100%;
+    }
+.left-featured {
+    width: 100%;
+}
+
+.Gallery-imgs {
+
+    flex-wrap: wrap;
+}
+
+.g-i1 {
+    width: 100%;
+
+}
+
+.g-i2 {
+    width: 100%;
+
+}
+
+.g-i3 {
+    width: 100%;
+
+}
+
+.coach-padding {
+    flex-wrap: wrap;
+}
+
+.coach-left {
+    width: 100%;
+}
+
+.coach-right {
+    width: 100%;
+}
+
+.coach-left>h1 {
+    font-size: 42px;
+}
+
+.img-blue {
+    flex-wrap: wrap;
+    width: 25%;
+    display: block;
+    margin: 0 auto;
+}
+
+.pictures1 {
+    margin-top: 25px;
+}
+
+.pictures2 {
+    margin-top: 25px;
+}
+
+.pictures3 {
+    margin-top: 25px;
+}
+
+.pictures4 {
+    margin-top: 25px;
+}
+
+.pictures5 {
+    margin-top: 25px;
+}
+.pictures6 {
+    margin-top: 25px;
+}.head-Just>h1{
+    font-size: 38px;
+}.people>h1 {
+    font-size: 35px;
+}.people>h6{
+    font-size: 30px;
+}.people-timer{
+    font-size: 15px;
+}.Testimonials{
+    width: 100%;
+    padding: 54px 0px 60px 0px;
+}.Career{
+    flex-wrap: wrap;
+}.left-Career{
+    width: 100%;
+}.right-Career{
+    width: 100%;
+    padding: 160px 100px 80px 65px;
+}.container-solution{
+    flex-wrap: wrap;
+}.item-solution{
+    width: 100%;
+    margin-top: 30px;
+}.head-solution{
+    font-size: 45px;
+
+}.Contact {
+    background-size: cover;
+
+}.container-education{
+    width: 100%;
+}.item-education{
+    width: 19%;
+}.item-text{
+    padding: 20px;
+}.center-Contact>h1{
+font-size: 44px;
+}.contact-bloc{
+    font-size: 22px;
+}
+}

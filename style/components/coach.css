@@ -1,0 +1,42 @@
+.coach-padding{
+    /* Сверху | Справа | Снизу | Слева */ 
+    padding: 25px 20px 130px 20px;
+    background-color: #fff;
+    display: flex;
+}
+.coach-right{
+    background-image: url(../../images/coach.jpg);
+    background-size: cover;
+    height: 570px;
+    width: 70%;
+    margin-left: auto;
+    display: block;
+    padding: 0px 20px 0px 20px;
+    background-position: top;
+
+}
+.coach-left>h1{
+    font-size: 57px;
+    font-weight: 400;
+    margin-top: 15px;
+}
+.coach-left>h4{
+    font-size: 27px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Courgette', handwriting;
+    margin-top: 36px;
+    color: rgb(97, 96, 96);
+    margin-left: 10PX;
+}
+.coach-left>p{
+    margin-top:30px ;
+    margin-left: 5px;
+    padding:30px 25px;
+    background-color: #e9be7d;
+    font-size: 17px;
+    line-height: 1.6;
+    letter-spacing: 0px;
+}

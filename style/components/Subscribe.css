@@ -1,0 +1,71 @@
+.sub-padding{
+    padding: 25px 0px 80px 0px;
+    background-image: url(../../images/fon3.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    width: 100%;
+    background-attachment:fixed ;
+}
+.Sub-center{
+    padding: 70px 0px 0px 0px;
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+    font-size: 47px;
+}
+.Sub-center>p{
+    padding: 26px 0px 0px 0px;
+    text-align: center;
+    color: #fff;
+    font-weight: 440;
+    font-size: 24px;
+    font-family: 'Courgette', handwriting;
+
+}
+.c{
+   
+    text-align: center;
+    margin: 40px auto;
+}
+.input-line{
+    padding: 0px 10px;
+    width:55%;
+    height: 55px;
+    font-size: 17px;
+    color: #7b7c7a;
+    background-color: #ffffff;
+    border: 1px solid #ff0000;
+}
+.sub-button{
+    display: flex;
+    width: 180px;
+    height: 55px;
+    justify-content: center;
+    align-items: center;
+    background: #e6ba7a;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.8px;
+    color: black;
+    margin: 35px auto;
+}
+.Our-social i{
+    color:#e6ba7a;
+    margin-left: 30px;
+}
+.Our-social{
+    margin-top: 30px;
+    font-size: 14px;
+    display: flex;
+}
+.head-Our-social{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 19px;
+
+}

@@ -1,0 +1,39 @@
+.Career{
+    background-color:  #e9be7d ;
+    display: flex;
+}
+.left-Career{
+    background-image: url(../../images/Career.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 890px;
+    width: 50%;
+}
+.right-Career{
+
+       /* Сверху | Справа | Снизу | Слева */ 
+    padding:160px 100px 0px 65px 
+}
+.right-Career>h1{
+
+    padding-right: 50px;
+    padding-bottom: 30px;
+    font-size: 53px;
+    font-weight:  500px; 
+    font-weight: 400;
+}
+.Career-text>h5{
+    margin-top: 20px;
+    padding-bottom: px;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.5;
+    
+}
+.Career-text>p{
+    font-size: 17px;
+    line-height: 1.6;
+    letter-spacing: 0px;
+
+}

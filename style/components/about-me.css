@@ -1,0 +1,58 @@
+.me-padding {
+     /* Сверху | Справа | Снизу | Слева */ 
+    padding: 0px 0px 0px 0px ;
+    background-color:  #e9be7d ;
+    display: flex;
+}
+.left-me{
+    background-image: url(../../images/about-me.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 890px;
+    display: block;  
+
+    width:50%;
+}
+.right-me{
+    margin:0px 0px 0px 65px ;
+}
+.right-me>h1{
+    font-size: 49px;
+    padding-top: 150px;
+    font-weight: 700; 
+}
+.blue-line{
+    /* max-width: 100%; */
+    width: 130px;
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-top-color: #0f2546;
+    margin-top: 20px;
+    margin-left: 0px;
+}
+
+.right-me>h3{
+    font-size: 37px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Courgette', handwriting;
+    padding-top: 55px;
+}
+.right-me>p{
+    font-size: 17px;
+    line-height: 1.6;
+    letter-spacing: 0px;
+    color: #0f0e0e;
+    padding-top: 37px;
+}
+.sing{
+    background-image: url(../../images/signature.png);
+    height: 101px;
+    width: 94px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 45px;
+}

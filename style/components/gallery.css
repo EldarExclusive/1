@@ -1,0 +1,73 @@
+.Gallery-padding{
+    padding: 110px 0px;
+}
+.Gallery-padding>h1{
+    text-align: center;
+    font-size: 48px;
+}
+.Gallery-imgs{
+    display: flex;
+    padding:100px 0px ;
+}
+.g-i1{
+    background-image: url(../../images/gallery1.jpg);
+    background-size: cover;
+    width: 33%;
+    height: 270px ;
+    position: relative;
+}
+.g-i2{
+    background-image: url(../../images/gallery2.jpg);
+    background-size: cover;
+    background-position: top;
+    width: 34%;
+    height: 270px;
+    position: relative;
+}
+.g-i3{
+    background-image: url(../../images/gallery3.jpg);
+    background-size: cover;
+    background-position: top;
+    width: 33%;
+    height: 270px ;
+    position: relative;
+    
+}
+.asas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /* background-color: rgba(0, 0, 0, 0.3); */
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.asas:hover{
+    background-color: rgba(0, 0, 0, 0.6);
+    /* transition: .4s;за сколько времени это должно поменяться  */
+    transition: .3s;
+   
+}
+
+/*  */
+.asas>i{
+    /* задаем классу i что бы не было видно  иконку*/
+    color: #fff;
+    font-size: 70px;
+    /* opacity: 0; прозрачность 0   */
+    opacity: 0;
+}
+/* i:hover для класса I только   */
+.asas i:hover{
+   
+    font-size: 84px;
+    transition: .3s;
+}
+/* asas:hover i к классу  asas  потом    
+ /* задаем при hover чтобы иконка была ВИДНА */
+ .asas:hover i {
+    opacity: 1;
+  
+}

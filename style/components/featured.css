@@ -1,0 +1,58 @@
+.Featured-padding{
+    /* Сверху | Справа | Снизу | Слева */ 
+  background-color:rgb(255, 255, 255);
+  background-color:  #e9be7d ;
+  display: flex;
+  margin-top: 20px;
+  
+}
+.right-featured{
+    background-image: url(../../images/featured.jpg);
+    background-size: cover;
+    position: relative;
+    width: 50%;
+    height: 800px;
+    margin-left: auto;
+    background-position: top;
+    background-repeat: no-repeat;
+    display: block;  
+
+}
+.left-featured h1{
+    padding-top: 20px;
+    font-size: 46px;
+    /* text-align: center; */
+    padding:250px 0px 0px 160px ;
+}
+.featured-text{
+    padding-top: 30px;
+    /* font-size: 18px; */
+    /* text-align: center; */
+    padding:35px 0px 0px 160px ;
+    color: #0f0e0e;
+    font-size: 17px;
+    line-height: 1.6;
+    letter-spacing: 0px;
+}
+.price-featured{
+    color: #132e55;
+    padding:45px 0px 0px 160px ;
+    font-size: 43px;
+}
+.bot-featured{
+    display: flex;
+    width: 189px;
+    height: 65px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 150px;
+    background: #1e3a5a;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0.8px;
+    color: #fff;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,52 @@
+.education{
+      /* Сверху | Справа | Снизу | Слева */ 
+    padding: 120px 25px;
+    background-color:  #132e55;;
+}
+.head-education{
+    text-align: center;
+    font-size: 55px;
+    color: #fff;
+    font-weight: 500;
+    font-family: 'Martel', serif;
+}
+.container-education{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    margin-top: 85px;
+ 
+}
+.item-education:hover{
+     background-color:  #fff; 
+    /* text-decoration: underline; */
+    transition: .3s;
+
+}
+.item-education{
+    width: 21%;
+    background-color:  #e9be7d; 
+    padding: 20px ;
+    text-align: center;
+    font-size: 19px;
+    font-weight: 500;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+} 
+.item-white-education{
+    background-color:  #ffffff; 
+    width: 22%;
+    padding: 20px ;
+    text-align: center;
+    font-size: 19px;
+    font-weight: 500;
+}
+.item-text{
+    padding: 29.5px;
+    font-size: 16px;
+    line-height: 1.6;
+    letter-spacing: 0px;
+    background-color: #fff;
+    color: #434f53;
+}

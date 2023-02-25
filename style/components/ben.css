@@ -1,0 +1,95 @@
+.ben-padding{
+    /* Сверху | Справа | Снизу | Слева */ 
+    padding:90px 0px 120px 0px ;
+    background-color: rgb(255, 255, 255);
+    
+}
+.center h1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Martel', serif;
+    font-size: 55px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+    color: #0f0e0e;
+    margin-left: 10px;
+    padding: 20px
+  
+} 
+
+ .first-icon{
+    /* в 4 класса вставляем картинку,указываем высоту и ширину,и чтобы растянулась в этот размер */
+    background-image: url(../../images/icon1.png);
+    background-size: cover;
+    height:165px; 
+    width: 165px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+ }
+ .second-icon{
+    background-image: url(../../images/icon2.png);
+    background-size: cover;
+    height:165px; 
+    width: 165px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+ }
+ .third-icon{
+    background-image: url(../../images/icon3.png);
+    background-size: cover;
+    /* align-items: center; */
+    height:165px; 
+    width: 165px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+ }
+.h-text{
+    /* margin-left:30px ; */
+    margin-top: 29px;
+    font-size: 18px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+    font-weight: 800;
+    font-style: normal;
+    font-family: 'Martel', serif;
+   
+}
+.small-text{
+    display:flex;
+    font-size: 16.6px;
+    color: #7b7c7a;
+    /* margin: 33px auto; */
+    margin-top: 10px; 
+    line-height: 1.4;
+    letter-spacing: 0px;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.ben-main{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    color: #000;
+    padding: 0PX 40px;
+}
+.yellow-line{
+    max-width: 100%;
+    width: 180px;
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-top-color: #e6ba7a;
+    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto   
+}

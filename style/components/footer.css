@@ -1,0 +1,40 @@
+.end{
+      /* Сверху | Справа | Снизу | Слева */ 
+    padding: 70px;
+    background: #2a2727;
+    text-align: center;
+}
+
+.logo2{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+
+.life2{
+    color: white;
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    text-decoration:none;
+    text-transform: uppercase;
+    margin-left: 10px;
+}
+.end-social i{
+    color:#e6ba7a;
+    margin-left: 30px;
+}
+.end-social{
+    margin-top: 40px;
+    font-size: 14px;
+}
+.footer{
+    background-color: rgb(15, 13, 13);
+    color: #fff;
+    text-align: center;
+    padding: 15px 0px;
+    font-size: 18px;
+}

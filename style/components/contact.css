@@ -1,0 +1,55 @@
+.Contact{
+    background-image: url(../../images/end.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    padding: 140px 0px 100px 100px ;
+}
+
+.center-Contact{
+    color: #fff;
+}
+.center-Contact>h1{
+    font-size: 55px;
+    font-weight: 800;
+    font-family: 'Martel', serif;
+    line-height: 1.4;
+}
+.center-Contact>p{
+    font-size: 26px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Courgette', handwriting;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.yellow-picture{
+    background-image: url(../../images/yellow.png);
+    height:80px; 
+    width: 80px;
+    margin-left: 30px;
+   
+}
+.yellow-picture>i{
+    font-size: 28px;
+    margin-left: 27px;
+    margin-top: 25px;
+    align-items: center;
+    color: black;
+}
+.contact-text{
+    margin: 40px; 
+    font-size: 26px;
+    color: #fff;
+    font-family: 'Martel', serif;
+}
+.contact-text>p{
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+    
+}
+.contact-bloc{
+    display: flex;
+    align-items: center;
+}

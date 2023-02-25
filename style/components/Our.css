@@ -1,0 +1,124 @@
+.our-padding{
+    padding: 100px 30px ;
+    background-color: rgb(255, 255, 255);
+}
+.speakers{
+    text-align: center;
+    font-weight: 600;
+    font-style: normal;
+    font-family: 'Martel', serif;
+    font-size: 42px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+
+}
+.puctures{
+    display:flex;  
+    align-items:center;
+    justify-content: space-around;
+    /* padding-top: 99px; */
+    margin-top: 69px;
+    
+}
+.our-pictures1{
+    /* в 4 класса вставляем картинку,указываем высоту и ширину,и чтобы растянулась в этот размер */
+    background-image: url(../../images/chel1.jpg);
+    background-size: cover;
+    height: 330px; 
+    width: 280px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
+.our-pictures2{
+    /* в 4 класса вставляем картинку,указываем высоту и ширину,и чтобы растянулась в этот размер */
+    background-image: url(../../images/chel2.jpg);
+    background-size: cover;
+    height: 330px; 
+    width: 280px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto   
+}
+.our-pictures3{
+    /* в 4 класса вставляем картинку,указываем высоту и ширину,и чтобы растянулась в этот размер */
+    background-image: url(../../images/chel3.jpg);
+    background-size: cover;
+    height: 330px; 
+    width: 280px;  
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.our-pictures4{
+    /* в 4 класса вставляем картинку,указываем высоту и ширину,и чтобы растянулась в этот размер */
+    background-image: url(../../images/chel4.jpg);
+    background-size: cover;
+    height: 330px; 
+    width: 280px ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+    
+}
+
+.our-item{
+    display:flex;  
+    align-items:center;
+    justify-content: space-around
+    /* padding: 0px 50px; */
+    
+}
+.our-about{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto Slab', serif;
+    color: #716f70;
+    font-size: 16px;
+    line-height: 1.7;
+    letter-spacing: 1px;
+    /* padding-left: 25px; */
+    text-align: center;
+}
+.messages-icons{
+    display:flex;  
+    align-items:center;
+    justify-content: space-around;
+}
+.ic1{
+    background-image: url(../../images/icons.PNG); 
+    width: 190px;
+    height: 100px;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+.our-inner i{
+    color:#e6ba7a;
+    font-size: 17px;
+}
+.our-inner{
+    
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    display: block;  
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.our-name{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    display:flex;   
+    align-items:center; 
+    justify-content: space-around; 
+    font-weight: 600; 
+    font-style: normal; 
+    font-family: 'Martel', serif; 
+    color: #0f0e0e; 
+    font-size: 23px; 
+    line-height: 1.6; 
+    letter-spacing: 0px;
+
+}
